@@ -1,0 +1,26 @@
+Done Create virtual environment
+Done Install Django
+Done Create Django project
+Done Create app for base pages
+Done Create some templates, views
+Done Implement tailwind css
+Done Create app for users
+Done Set up authentication
+Done Sign up
+Done Log in
+Done Log out
+
+
+Done Create app for links
+Done Models for link and category
+Done Views
+Done Create app for dashboard
+Done Category list page
+	Edit category
+	Delete category
+Edit link
+Delate link
+Add category filter on the links page
+Implement Limitations
+Implement a payment gateway (dj-stripe)
+Deploy (?)
